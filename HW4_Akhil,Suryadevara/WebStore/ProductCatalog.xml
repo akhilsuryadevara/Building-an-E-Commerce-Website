@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+	<laptop id="Apple">
+        <name>Apple</name>
+        <price>249.99</price>
+        <image>6.png</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </laptop>
+
+	<laptop id="Apple_1">
+        <name>Apple</name>
+        <price>799.00</price>
+        <image>macbook1.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </laptop>
+	
+	<laptop id="Apple_2">
+        <name>Apple</name>
+        <price>899.00</price>
+        <image>macbook2.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </laptop>
+	<laptop id="Apple_3">
+        <name>Apple</name>
+        <price>1299.00</price>
+        <image>macbook3.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </laptop>
+    <laptop id="asus">
+        <name>Asus</name>
+        <price>1199.00</price>
+        <image>asus1.jpg</image>
+        <manufacturer>Asus</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		
+
+    </laptop>
+	
+	<laptop id="asus_2">
+        <name>Asus</name>
+        <price>699.00</price>
+        <image>asus2.jpg</image>
+        <manufacturer>Asus</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		
+
+    </laptop>
+	
+	<laptop id="asus_3">
+        <name>Asus</name>
+        <price>1064.57</price>
+        <image>asus3.jpg</image>
+        <manufacturer>Asus</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		
+
+    </laptop>
+	<laptop id="asus_4">
+        <name>Asus</name>
+        <price>899.00</price>
+        <image>asus4.jpg</image>
+        <manufacturer>Asus</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		
+
+    </laptop>
+	<laptop id="asus_5">
+        <name>Asus</name>
+        <price>749.00</price>
+        <image>asus5.jpg</image>
+        <manufacturer>Asus</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+		
+		
+		
+
+    </laptop>
+	
+	<laptop id="acer">
+        <name>Acer</name>
+        <price>764.99</price>
+        <image>acer1.jpg</image>
+        <manufacturer>Acer</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </laptop>
+	
+	<laptop id="acer_1">
+        <name>Acer</name>
+        <price>248.99</price>
+        <image>acer2.jpg</image>
+        <manufacturer>Acer</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </laptop>
+	
+	<laptop id="acer_2">
+        <name>Acer</name>
+        <price>799.99</price>
+        <image>acer3.jpg</image>
+        <manufacturer>Acer</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </laptop>
+	
+    <laptop id="HP">
+        <name>HP</name>
+        <price>647.00</price>
+        <image>hp1.jpg</image>
+        <manufacturer>HP</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </laptop>
+	
+	<laptop id="HP_1">
+        <name>HP</name>
+        <price>999.99</price>
+        <image>hp2.jpg</image>
+        <manufacturer>HP</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </laptop>
+	
+    <laptop id="dell">
+        <name>Dell</name>
+        <price>749.99</price>
+        <image>dell1.jpg</image>
+        <manufacturer>Dell</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>dell_wc</accessory>
+
+        </accessories>
+    </laptop>
+    <laptop id="Dell_1">
+        <name>Dell</name>
+        <price>899.99</price>
+        <image>dell2.jpg</image>
+        <manufacturer>Dell</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </laptop>   
+	
+	<laptop id="Microsoft_1">
+        <name>Microsoft</name>
+        <price>899.99</price>
+        <image>microsoft1.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </laptop>   
+	<laptop id="Microsoft_2">
+        <name>Microsoft</name>
+        <price>979.99</price>
+        <image>microsoft2.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </laptop>   
+	<laptop id="Razer_1">
+        <name>Razer</name>
+        <price>899.99</price>
+        <image>razer1.jpg</image>
+        <manufacturer>Razer</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </laptop>   
+	<laptop id="Razer_2">
+        <name>Razer</name>
+        <price>899.99</price>
+        <image>razer2.jpg</image>
+        <manufacturer>Razer</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </laptop>   	
+	
+  
+    
+    
+
+	<speaker id="Home_1">
+        <name>GoogleHomeMini</name>
+        <price>75.00</price>
+        <image>homemini1.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+	</speaker>
+	<speaker id="Home_2">
+        <name>GoogleHomeMini</name>
+        <price>48.99</price>
+        <image>homemini2.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+	</speaker>
+	<speaker id="Echo_1">
+        <name>Echo</name>
+        <price>75.00</price>
+        <image>echo1.jpg</image>
+        <manufacturer>Amazon</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+	</speaker>
+	<speaker id="Echo_2">
+        <name>Echo</name>
+        <price>35.00</price>
+        <image>echo2.jpg</image>
+        <manufacturer>Amazon</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+    </speaker>
+	<speaker id="Logitech">
+        <name>Logitech</name>
+        <price>9.99</price>
+        <image>logitech1.jpg</image>
+        <manufacturer>Logitech</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+	</speaker>
+	<speaker id="Bose">
+        <name>Bose</name>
+        <price>129.99</price>
+        <image>bose1.jpg</image>
+        <manufacturer>Bose</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+	</speaker>
+	<speaker id="Sony">
+        <name>Sony</name>
+        <price>59.99</price>
+        <image>sony1.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+	</speaker>
+	
+	<phone id="samsung_1">
+        <name>Samsung</name>
+        <price>899.99</price>
+        <image>samsung1.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>18.0</discount>
+    </phone>
+	
+	<phone id="samsung_2">
+        <name>Samsung</name>
+        <price>499.99</price>
+        <image>samsung2.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>Used</condition>
+        <discount>50.0</discount>
+    </phone>
+	
+	<phone id="OnePlus_1">
+        <name>OnePlus</name>
+        <price>499.99</price>
+        <image>oneplus1.jpg</image>
+        <manufacturer>OnePlus</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </phone>
+	
+	<phone id="OnePlus_2">
+        <name>OnePlus</name>
+        <price>699.99</price>
+        <image>oneplus2.jpg</image>
+        <manufacturer>OnePlus</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </phone>
+
+    <phone id="Iphone_1">
+        <name>Iphone</name>
+        <price>789.99</price>
+        <image>iphone1.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </phone>
+
+    <phone id="Iphone_2">
+        <name>Iphone</name>
+        <price>450.99</price>
+        <image>iphone2.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>35.0</discount>
+    </phone>
+
+	
+	
+	
+
+<watch id="watch_1">
+        <name>Samsung</name>
+        <price>149.00</price>
+        <image>samsung1.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>12.0</discount>
+</watch>
+<watch id="watch_2">
+        <name>Samsung</name>
+        <price>249.00</price>
+        <image>samsung2.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>0.0</discount>
+</watch>
+
+
+
+
+<fitness id="fitness">
+        <name>Fitbit</name>
+        <price>99.99</price>
+        <image>fitbit1.jpg</image>
+        <manufacturer>Fitbit</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</fitness>
+<fitness id="fitness_2">
+        <name>Fitbit</name>
+        <price>199.99</price>
+        <image>fitbit2.jpg</image>
+        <manufacturer>Fitbit</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>
+</fitness>
+
+
+<fitness id="fitness_3">
+        <name>Fitbit</name>
+        <price>189.99</price>
+        <image>fitbit3.jpg</image>
+        <manufacturer>Fitbit</manufacturer>
+        <condition>New</condition>
+        <discount>2.0</discount>
+</fitness>
+
+
+<headphone id="headphone">
+        <name>Sony</name>
+        <price>99.99</price>
+        <image>sony1.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</headphone>
+<headphone id="headphone_1">
+        <name>Sony</name>
+        <price>29.99</price>
+        <image>sony2.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>20.0</discount>
+</headphone>
+<headphone id="headphone_2">
+        <name>Sony</name>
+        <price>79.99</price>
+        <image>sony3.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</headphone>
+
+
+
+
+
+<pettracker id="pettracker">
+        <name>PetTracker</name>
+        <price>65.99</price>
+        <image>pt1.jpg</image>
+        <manufacturer>PetTracker</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</pettracker>
+
+<pettracker id="pettracker_1">
+        <name>PetTracker</name>
+        <price>36.99</price>
+        <image>pt2.jpg</image>
+        <manufacturer>PetTracker</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+</pettracker>
+
+<pettracker id="pettracker_2">
+        <name>PetTracker</name>
+        <price>19.99</price>
+        <image>pt3.jpg</image>
+        <manufacturer>PetTracker</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+</pettracker>
+
+
+
+<vr id="vr_1">
+        <name>VR</name>
+        <price>99.99</price>
+        <image>vr1.jpg</image>
+        <manufacturer>Oculus</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>
+</vr>
+<vr id="vr_2">
+        <name>VR</name>
+        <price>49.99</price>
+        <image>vr2.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>7.0</discount>
+</vr>
+
+<accessory id="a1">
+    <name>Mouse</name>
+    <price>19.99</price>
+    <image>1.png</image>
+    <manufacturer>Apple</manufacturer>
+    <condition>New</condition>
+    <discount>40.0</discount>
+</accessory>
+<accessory id="a2">
+    <name>PS4 Controller</name>
+    <price>89.99</price>
+    <image>2.png</image>
+    <manufacturer>Apple</manufacturer>
+    <condition>Used</condition>
+    <discount>20.0</discount>
+</accessory>
+<accessory id="a3">
+    <name>XBox Controller</name>
+    <price>299.99</price>
+    <image>3.png</image>
+    <manufacturer>Microsoft</manufacturer>
+    <condition>New</condition>
+    <discount>15.0</discount>
+</accessory>
+<accessory id="a4">
+    <name>case</name>
+    <price>29.99</price>
+    <image>4.png</image>
+    <manufacturer>Apple</manufacturer>
+    <condition>New</condition>
+    <discount>15.0</discount>
+</accessory>
+
+</ProductCatalog>
